@@ -16,6 +16,7 @@ Welcome to ArtRepository's documentation!
 
    introduction
    category
+   artist_list
 
 
 
