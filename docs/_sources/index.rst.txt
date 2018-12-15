@@ -9,6 +9,7 @@ Welcome to ArtRepository's documentation!
 @montblanc18による、絵画に関する忘備録。
 インターネットを始め、各種媒体から収集した情報をもとに記述します。
 主に西洋美術を中心に扱います。好きなのはカラヴァッジョ、次にレンブラントです。
+since Dec 1 2018.
 
 .. toctree::
    :maxdepth: 2
