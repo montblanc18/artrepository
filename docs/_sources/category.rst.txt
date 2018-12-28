@@ -105,7 +105,7 @@ To be written.
   :maxdepth: 2
   :caption: Baroque:
 
-  Baroque
+  Baroque/Baroque
 
 ロココ美術
 ----------
