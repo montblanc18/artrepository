@@ -204,3 +204,9 @@ To be written.
 彼らは新たな絵画技法を次々と生み出しながら、夢と現実が混ざった世界観を描いていった。
 
 その後も様々な価値観や美術様式が生まれ、現在に至るまで非常に多様化している。
+
+.. toctree::
+  :maxdepth: 2
+  :caption: ContemporaryArt:
+
+  ContemporaryArt/ContemporaryArt
