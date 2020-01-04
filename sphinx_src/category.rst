@@ -161,7 +161,7 @@ To be written.
 一般的には、ゴッホやゴーギャン、セザンヌを指す。
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
   :caption: Post-Impressionism
 
   Post-Impressionism/Post-Impressionism
@@ -218,7 +218,7 @@ To be written.
 その後も様々な価値観や美術様式が生まれ、現在に至るまで非常に多様化している。
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
   :caption: ContemporaryArt
 
   ContemporaryArt/ContemporaryArt

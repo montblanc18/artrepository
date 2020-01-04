@@ -8,12 +8,10 @@
 
 * ドイツ
 * ロシア
-
   * ハイム・スーチン(1894-1944)
-
 * ノルウェー
 
-  .. toctree::
-    :maxdepth: 1
+    .. toctree::
+        :maxdepth: 1
 
-    Edvard_Munch_1863_1944/Edvard_Munch_1863_1944
+        Edvard_Munch_1863_1944/Edvard_Munch_1863_1944
