@@ -103,7 +103,7 @@ To be written.
 
 .. toctree::
   :maxdepth: 2
-  :caption: Baroque:
+  :caption: Baroque
 
   Baroque/Baroque
 
@@ -160,6 +160,12 @@ To be written.
 もちろん、『印象派後期の画家たち』ではない。
 一般的には、ゴッホやゴーギャン、セザンヌを指す。
 
+.. toctree::
+  :maxdepth: 1
+  :caption: Post-Impressionism
+
+  Post-Impressionism/Post-Impressionism
+
 現代
 ====
 
@@ -212,7 +218,7 @@ To be written.
 その後も様々な価値観や美術様式が生まれ、現在に至るまで非常に多様化している。
 
 .. toctree::
-  :maxdepth: 2
-  :caption: ContemporaryArt:
+  :maxdepth: 1
+  :caption: ContemporaryArt
 
   ContemporaryArt/ContemporaryArt
