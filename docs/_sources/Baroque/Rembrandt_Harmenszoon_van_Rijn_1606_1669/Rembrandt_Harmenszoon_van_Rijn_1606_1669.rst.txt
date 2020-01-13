@@ -3,7 +3,7 @@
 ========================================================
 
 .. figure:: fig/Self_portrait_1640.jpg
-  :scale: 50%
+  :scale: 10%
 
   自画像(1640頃)
 
@@ -56,11 +56,11 @@ Rembrandt Harmenszoon van Rijn (1606.07.15-1669.10.04) は、ネーデルラン�
 ========
 
 .. figure:: fig/The_Anatomy_Lesson_1632.jpg
-  :scale: 50%
+  :scale: 20%
 
   テュルプ博士の解剖学講義(1632年, マウリッツハイス美術館, デン・ハーグ)
 
 .. figure:: fig/The_Night_Watch_1642.jpg
-  :scale: 50%
+  :scale: 10%
 
   夜警(1642年, アムステルダム国立美術館, アムステルダム)
