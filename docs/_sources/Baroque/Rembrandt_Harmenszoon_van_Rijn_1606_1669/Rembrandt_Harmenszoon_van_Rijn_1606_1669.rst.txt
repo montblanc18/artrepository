@@ -61,6 +61,6 @@ Rembrandt Harmenszoon van Rijn (1606.07.15-1669.10.04) は、ネーデルラン�
   テュルプ博士の解剖学講義(1632年, マウリッツハイス美術館, デン・ハーグ)
 
 .. figure:: fig/The_Night_Watch_1642.jpg
-  :scale: 10%
+  :scale: 5%
 
   夜警(1642年, アムステルダム国立美術館, アムステルダム)
